@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @mariaeloisa88
-- 👀 I’m interested in data analytics for land use planning in the Philippines
-- 🌱 I’m currently learning Google Data Analytics Specialization
-- 💞️ I’m looking to collaborate on anything that is related to data analysis
-- 📫 How to reach me in LinkedIn : https://www.linkedin.com/in/mariaeloisa/
-- 😄 Pronouns: ♀
+👋 Hi, I’m Maria Eloisa Pedro
 
-<!---
-mariaeloisa88/mariaeloisa88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I’m interested in data analytics for land use planning in the Philippines, automation, reading and writing.
+
+🌱 I’m currently working as a Data Analyst Lead at Conservice Connectivity Solutions (previously Onboard powered by Conservice)
+
+💞️ I’m looking to collaborate on anything that is related to data analysis
+
+📫 Follow/Connect with me : [My Links](https://mariaeloisa88.github.io/links/)
+
+😄 Pronouns: ♀
